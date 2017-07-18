@@ -1,0 +1,10 @@
+blockquote {
+    border-left: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1;
+}
+
+blockquote *:last-child {
+    margin-bottom: 1px;
+}

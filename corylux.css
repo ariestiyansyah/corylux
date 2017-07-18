@@ -1,71 +1,42 @@
-/* Body */
-
 html {
-    font-size: ;
-    box-sizing: ;
-}
+  font-size: 100%;
+  box-sizing: 10px; }
 
 body {
-    font-size: ;
-    font-weight: ;
-    font-family: ;
-    color: ;
-}
-
-/* Blockquote */
+  font-size: 65%;
+  font-weight: 1; }
 
 blockquote {
-    border-left: 0;
-    margin-left: 0;
-    margin-right: 0;
-    padding: 0;
-}
+  border-left: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 1; }
 
 blockquote *:last-child {
-    margin-bottom: ;
-}
+  margin-bottom: 1px; }
 
+h1 {
+  font-size: 40px;
+  line-height: 20px; }
 
-/* Typography */
+h2 {
+  font-size: 40px;
+  line-height: 20px; }
 
-h1, 
-h2,
-h3,
-h4,
-h5,
+h3 {
+  font-size: 40px;
+  line-height: 20px; }
+
+h4 {
+  font-size: 40px;
+  line-height: 20px; }
+
+h5 {
+  font-size: 40px;
+  line-height: 20px; }
+
 h6 {
+  font-size: 40px;
+  line-height: 20px; }
 
-}
-
-h1 { 
-    font-size: ;
-    line-height: ;
-}
-
-h2 { 
-    font-size: ;
-    line-height: ;
-}
-
-h3 { 
-    font-size: ;
-    line-height: ;
-}
-
-h4 { 
-    font-size: ;
-    line-height: ;
-}
-h5 { 
-    font-size: ;
-    line-height: ;
-}
-
-h6 { 
-    font-size: ;
-    line-height: ;
-}
-
-b, strong {
-
-}
+/*# sourceMappingURL=corylux.css.map */
